@@ -9,7 +9,7 @@ using UnityEngine;
 /// 2 units = half heart
 /// 4 units = full heart
 /// </summary>
-public class Enemy : MonoBehaviour
+public class Enemy : MonoBehaviour, IDamageable
 {
     public event Action<int, int> OnHealthChanged;
     public event Action<DamageData> OnDamaged;
@@ -20,7 +20,7 @@ public class Enemy : MonoBehaviour
     [SerializeField] protected int startHealthUnits = 4;
 
     [Header("Contact Damage")]
-    [SerializeField] protected int contactDamageUnits = 2; // 2 = half heart
+    [SerializeField] protected int contactDamageUnits = 2;
     [SerializeField] protected float damageCooldown = 0.5f;
 
     [Header("Movement")]
@@ -58,12 +58,10 @@ public class Enemy : MonoBehaviour
         NotifyHealthChanged();
     }
 
-    /// <summary>
-    /// Future-ready damage receiving method.
-    /// Use this later when player weapons, projectiles, traps, etc. damage the enemy.
-    /// </summary>
     public virtual bool ReceiveDamage(DamageData damageData)
     {
+        Debug.Log($"Enemy.ReceiveDamage called. Amount: {damageData.AmountUnits}, Source: {damageData.SourceObject?.name}, IsDead: {isDead}");
+
         if (isDead)
             return false;
 
@@ -72,6 +70,8 @@ public class Enemy : MonoBehaviour
 
         currentHealthUnits -= damageData.AmountUnits;
         currentHealthUnits = Mathf.Clamp(currentHealthUnits, 0, maxHealthUnits);
+
+        Debug.Log($"Enemy health: {currentHealthUnits}/{maxHealthUnits}");
 
         OnDamaged?.Invoke(damageData);
         NotifyHealthChanged();
@@ -85,10 +85,6 @@ public class Enemy : MonoBehaviour
         return true;
     }
 
-    /// <summary>
-    /// Simple helper for future testing.
-    /// Example: enemy.TakeDamage(1) = quarter heart damage.
-    /// </summary>
     public virtual bool TakeDamage(int amountUnits)
     {
         DamageData damageData = new DamageData(

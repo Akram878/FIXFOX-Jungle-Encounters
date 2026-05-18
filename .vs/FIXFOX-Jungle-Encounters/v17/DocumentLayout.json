@@ -1,0 +1,338 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nika\\Documents\\GitHub\\FIXFOX-Jungle-Encounters\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nika\\Documents\\GitHub\\FIXFOX-Jungle-Encounters\\Assets\\Scripts\\Player\\ClawsCombat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Player\\ClawsCombat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nika\\Documents\\GitHub\\FIXFOX-Jungle-Encounters\\Assets\\Scripts\\Player\\Health System\\Death\\PlayerDeathHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Player\\Health System\\Death\\PlayerDeathHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nika\\Documents\\GitHub\\FIXFOX-Jungle-Encounters\\Assets\\Scripts\\Player\\Health System\\Core\\PlayerHealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Player\\Health System\\Core\\PlayerHealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nika\\Documents\\GitHub\\FIXFOX-Jungle-Encounters\\Assets\\Scripts\\Player\\Movement System\\PlayerController (1).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Player\\Movement System\\PlayerController (1).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nika\\Documents\\GitHub\\FIXFOX-Jungle-Encounters\\Assets\\Scripts\\Combat\\Weapons\\Core\\WeaponHitbox2D.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Combat\\Weapons\\Core\\WeaponHitbox2D.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nika\\Documents\\GitHub\\FIXFOX-Jungle-Encounters\\Assets\\Scripts\\Combat\\Weapons\\Melee\\ClawsWeapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Combat\\Weapons\\Melee\\ClawsWeapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nika\\Documents\\GitHub\\FIXFOX-Jungle-Encounters\\Assets\\Scripts\\Enemies\\Movement\\SimpleEnemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Enemies\\Movement\\SimpleEnemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nika\\Documents\\GitHub\\FIXFOX-Jungle-Encounters\\Assets\\Scripts\\Enemies\\Core\\Enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Enemies\\Core\\Enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nika\\Documents\\GitHub\\FIXFOX-Jungle-Encounters\\Assets\\Scripts\\Player\\FoxNoArmsAnimatorBridge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Player\\FoxNoArmsAnimatorBridge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nika\\Documents\\GitHub\\FIXFOX-Jungle-Encounters\\Assets\\Scripts\\Player\\FoxClawsCombat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Player\\FoxClawsCombat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nika\\Documents\\GitHub\\FIXFOX-Jungle-Encounters\\Assets\\Scripts\\Combat\\KnockbackReceiver2D.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Combat\\KnockbackReceiver2D.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nika\\Documents\\GitHub\\FIXFOX-Jungle-Encounters\\Assets\\Scripts\\Combat\\Weapons\\Core\\WeaponBase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Combat\\Weapons\\Core\\WeaponBase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nika\\Documents\\GitHub\\FIXFOX-Jungle-Encounters\\Assets\\Scripts\\Combat\\Weapons\\Core\\WeaponAttackContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Combat\\Weapons\\Core\\WeaponAttackContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nika\\Documents\\GitHub\\FIXFOX-Jungle-Encounters\\Assets\\Scripts\\Combat\\Weapons\\Core\\WeaponData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Combat\\Weapons\\Core\\WeaponData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nika\\Documents\\GitHub\\FIXFOX-Jungle-Encounters\\Assets\\Scripts\\Combat\\Weapons\\Core\\WeaponType.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Combat\\Weapons\\Core\\WeaponType.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nika\\Documents\\GitHub\\FIXFOX-Jungle-Encounters\\Assets\\Scripts\\Combat\\IDamageable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Combat\\IDamageable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nika\\Documents\\GitHub\\FIXFOX-Jungle-Encounters\\Assets\\Scripts\\Combat\\DamageData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Combat\\DamageData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nika\\Documents\\GitHub\\FIXFOX-Jungle-Encounters\\Assets\\Scripts\\Combat\\DamageType.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Combat\\DamageType.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClawsCombat.cs",
+              "DocumentMoniker": "C:\\Users\\nika\\Documents\\GitHub\\FIXFOX-Jungle-Encounters\\Assets\\Scripts\\Player\\ClawsCombat.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\ClawsCombat.cs",
+              "ToolTip": "C:\\Users\\nika\\Documents\\GitHub\\FIXFOX-Jungle-Encounters\\Assets\\Scripts\\Player\\ClawsCombat.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\ClawsCombat.cs",
+              "ViewState": "AgIAAOkAAAAAAAAAAAAqwAUBAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T05:51:01.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlayerHealth.cs",
+              "DocumentMoniker": "C:\\Users\\nika\\Documents\\GitHub\\FIXFOX-Jungle-Encounters\\Assets\\Scripts\\Player\\Health System\\Core\\PlayerHealth.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\Health System\\Core\\PlayerHealth.cs",
+              "ToolTip": "C:\\Users\\nika\\Documents\\GitHub\\FIXFOX-Jungle-Encounters\\Assets\\Scripts\\Player\\Health System\\Core\\PlayerHealth.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\Health System\\Core\\PlayerHealth.cs",
+              "ViewState": "AgIAAIIAAAAAAAAAAAAswKsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T13:30:11.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerDeathHandler.cs",
+              "DocumentMoniker": "C:\\Users\\nika\\Documents\\GitHub\\FIXFOX-Jungle-Encounters\\Assets\\Scripts\\Player\\Health System\\Death\\PlayerDeathHandler.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\Health System\\Death\\PlayerDeathHandler.cs",
+              "ToolTip": "C:\\Users\\nika\\Documents\\GitHub\\FIXFOX-Jungle-Encounters\\Assets\\Scripts\\Player\\Health System\\Death\\PlayerDeathHandler.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\Health System\\Death\\PlayerDeathHandler.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAswEoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T13:30:31.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WeaponHitbox2D.cs",
+              "DocumentMoniker": "C:\\Users\\nika\\Documents\\GitHub\\FIXFOX-Jungle-Encounters\\Assets\\Scripts\\Combat\\Weapons\\Core\\WeaponHitbox2D.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Combat\\Weapons\\Core\\WeaponHitbox2D.cs",
+              "ToolTip": "C:\\Users\\nika\\Documents\\GitHub\\FIXFOX-Jungle-Encounters\\Assets\\Scripts\\Combat\\Weapons\\Core\\WeaponHitbox2D.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Combat\\Weapons\\Core\\WeaponHitbox2D.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T11:13:39.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SimpleEnemy.cs",
+              "DocumentMoniker": "C:\\Users\\nika\\Documents\\GitHub\\FIXFOX-Jungle-Encounters\\Assets\\Scripts\\Enemies\\Movement\\SimpleEnemy.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemies\\Movement\\SimpleEnemy.cs",
+              "ToolTip": "C:\\Users\\nika\\Documents\\GitHub\\FIXFOX-Jungle-Encounters\\Assets\\Scripts\\Enemies\\Movement\\SimpleEnemy.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemies\\Movement\\SimpleEnemy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T12:51:11.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "C:\\Users\\nika\\Documents\\GitHub\\FIXFOX-Jungle-Encounters\\Assets\\Scripts\\Enemies\\Core\\Enemy.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemies\\Core\\Enemy.cs",
+              "ToolTip": "C:\\Users\\nika\\Documents\\GitHub\\FIXFOX-Jungle-Encounters\\Assets\\Scripts\\Enemies\\Core\\Enemy.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemies\\Core\\Enemy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T12:49:56.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FoxNoArmsAnimatorBridge.cs",
+              "DocumentMoniker": "C:\\Users\\nika\\Documents\\GitHub\\FIXFOX-Jungle-Encounters\\Assets\\Scripts\\Player\\FoxNoArmsAnimatorBridge.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\FoxNoArmsAnimatorBridge.cs",
+              "ToolTip": "C:\\Users\\nika\\Documents\\GitHub\\FIXFOX-Jungle-Encounters\\Assets\\Scripts\\Player\\FoxNoArmsAnimatorBridge.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\FoxNoArmsAnimatorBridge.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T08:32:43.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FoxClawsCombat.cs",
+              "DocumentMoniker": "C:\\Users\\nika\\Documents\\GitHub\\FIXFOX-Jungle-Encounters\\Assets\\Scripts\\Player\\FoxClawsCombat.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\FoxClawsCombat.cs",
+              "ToolTip": "C:\\Users\\nika\\Documents\\GitHub\\FIXFOX-Jungle-Encounters\\Assets\\Scripts\\Player\\FoxClawsCombat.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\FoxClawsCombat.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T11:54:49.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlayerController (1).cs",
+              "DocumentMoniker": "C:\\Users\\nika\\Documents\\GitHub\\FIXFOX-Jungle-Encounters\\Assets\\Scripts\\Player\\Movement System\\PlayerController (1).cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\Movement System\\PlayerController (1).cs",
+              "ToolTip": "C:\\Users\\nika\\Documents\\GitHub\\FIXFOX-Jungle-Encounters\\Assets\\Scripts\\Player\\Movement System\\PlayerController (1).cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\Movement System\\PlayerController (1).cs",
+              "ViewState": "AgIAAEcCAAAAAAAAAAAswFMCAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T12:09:51.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ClawsWeapon.cs",
+              "DocumentMoniker": "C:\\Users\\nika\\Documents\\GitHub\\FIXFOX-Jungle-Encounters\\Assets\\Scripts\\Combat\\Weapons\\Melee\\ClawsWeapon.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Combat\\Weapons\\Melee\\ClawsWeapon.cs",
+              "ToolTip": "C:\\Users\\nika\\Documents\\GitHub\\FIXFOX-Jungle-Encounters\\Assets\\Scripts\\Combat\\Weapons\\Melee\\ClawsWeapon.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Combat\\Weapons\\Melee\\ClawsWeapon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T11:15:16.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "KnockbackReceiver2D.cs",
+              "DocumentMoniker": "C:\\Users\\nika\\Documents\\GitHub\\FIXFOX-Jungle-Encounters\\Assets\\Scripts\\Combat\\KnockbackReceiver2D.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Combat\\KnockbackReceiver2D.cs",
+              "ToolTip": "C:\\Users\\nika\\Documents\\GitHub\\FIXFOX-Jungle-Encounters\\Assets\\Scripts\\Combat\\KnockbackReceiver2D.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Combat\\KnockbackReceiver2D.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAACgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T11:05:41.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "WeaponBase.cs",
+              "DocumentMoniker": "C:\\Users\\nika\\Documents\\GitHub\\FIXFOX-Jungle-Encounters\\Assets\\Scripts\\Combat\\Weapons\\Core\\WeaponBase.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Combat\\Weapons\\Core\\WeaponBase.cs",
+              "ToolTip": "C:\\Users\\nika\\Documents\\GitHub\\FIXFOX-Jungle-Encounters\\Assets\\Scripts\\Combat\\Weapons\\Core\\WeaponBase.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Combat\\Weapons\\Core\\WeaponBase.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAAAIwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T11:14:10.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "WeaponAttackContext.cs",
+              "DocumentMoniker": "C:\\Users\\nika\\Documents\\GitHub\\FIXFOX-Jungle-Encounters\\Assets\\Scripts\\Combat\\Weapons\\Core\\WeaponAttackContext.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Combat\\Weapons\\Core\\WeaponAttackContext.cs",
+              "ToolTip": "C:\\Users\\nika\\Documents\\GitHub\\FIXFOX-Jungle-Encounters\\Assets\\Scripts\\Combat\\Weapons\\Core\\WeaponAttackContext.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Combat\\Weapons\\Core\\WeaponAttackContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T11:13:12.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "WeaponData.cs",
+              "DocumentMoniker": "C:\\Users\\nika\\Documents\\GitHub\\FIXFOX-Jungle-Encounters\\Assets\\Scripts\\Combat\\Weapons\\Core\\WeaponData.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Combat\\Weapons\\Core\\WeaponData.cs",
+              "ToolTip": "C:\\Users\\nika\\Documents\\GitHub\\FIXFOX-Jungle-Encounters\\Assets\\Scripts\\Combat\\Weapons\\Core\\WeaponData.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Combat\\Weapons\\Core\\WeaponData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T11:12:31.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "WeaponType.cs",
+              "DocumentMoniker": "C:\\Users\\nika\\Documents\\GitHub\\FIXFOX-Jungle-Encounters\\Assets\\Scripts\\Combat\\Weapons\\Core\\WeaponType.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Combat\\Weapons\\Core\\WeaponType.cs",
+              "ToolTip": "C:\\Users\\nika\\Documents\\GitHub\\FIXFOX-Jungle-Encounters\\Assets\\Scripts\\Combat\\Weapons\\Core\\WeaponType.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Combat\\Weapons\\Core\\WeaponType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T11:12:13.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IDamageable.cs",
+              "DocumentMoniker": "C:\\Users\\nika\\Documents\\GitHub\\FIXFOX-Jungle-Encounters\\Assets\\Scripts\\Combat\\IDamageable.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Combat\\IDamageable.cs",
+              "ToolTip": "C:\\Users\\nika\\Documents\\GitHub\\FIXFOX-Jungle-Encounters\\Assets\\Scripts\\Combat\\IDamageable.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Combat\\IDamageable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T11:09:47.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DamageData.cs",
+              "DocumentMoniker": "C:\\Users\\nika\\Documents\\GitHub\\FIXFOX-Jungle-Encounters\\Assets\\Scripts\\Combat\\DamageData.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Combat\\DamageData.cs",
+              "ToolTip": "C:\\Users\\nika\\Documents\\GitHub\\FIXFOX-Jungle-Encounters\\Assets\\Scripts\\Combat\\DamageData.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Combat\\DamageData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T11:04:46.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DamageType.cs",
+              "DocumentMoniker": "C:\\Users\\nika\\Documents\\GitHub\\FIXFOX-Jungle-Encounters\\Assets\\Scripts\\Combat\\DamageType.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Combat\\DamageType.cs",
+              "ToolTip": "C:\\Users\\nika\\Documents\\GitHub\\FIXFOX-Jungle-Encounters\\Assets\\Scripts\\Combat\\DamageType.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Combat\\DamageType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T11:05:15.327Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 809,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{08a1bf1d-7967-4afc-8253-1790862ab8c9}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
