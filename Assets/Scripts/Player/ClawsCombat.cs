@@ -32,6 +32,9 @@ public class ClawsCombat : MonoBehaviour
     private SpriteRenderer graphicsSpriteRenderer;
     private PlayerController controller;
 
+    // Событие для WeaponManager
+    public event System.Action<bool> OnClawsToggled;
+
     private void Awake()
     {
         if (graphicsNormal != null)
@@ -90,18 +93,24 @@ public class ClawsCombat : MonoBehaviour
     {
         if (Input.GetKeyDown(KeyCode.Alpha1) || Input.GetKeyDown(KeyCode.Keypad1))
         {
+            // Переключаем состояние
             clawsModeEnabled = !clawsModeEnabled;
 
             if (clawsModeEnabled)
             {
+                // ВКЛЮЧАЕМ когти
                 if (graphicsSpriteRenderer != null) graphicsSpriteRenderer.enabled = false;
                 if (foxNoArms != null) foxNoArms.SetActive(true);
                 if (clawsIdleObject != null) clawsIdleObject.SetActive(true);
             }
             else
             {
-                HideAllClaws();
+                // ВЫКЛЮЧАЕМ когти
+                HideAllClawsVisuals();
             }
+
+            // ВСЕГДА вызываем событие после изменения
+            OnClawsToggled?.Invoke(clawsModeEnabled);
         }
     }
 
@@ -212,9 +221,9 @@ public class ClawsCombat : MonoBehaviour
         canAttack = true;
     }
 
-    private void HideAllClaws()
+    // Только скрывает визуал, НЕ трогает clawsModeEnabled и НЕ вызывает событие
+    private void HideAllClawsVisuals()
     {
-        clawsModeEnabled = false;
         if (graphicsSpriteRenderer != null) graphicsSpriteRenderer.enabled = true;
         if (foxNoArms != null) foxNoArms.SetActive(false);
         if (clawsIdleObject != null) clawsIdleObject.SetActive(false);
@@ -222,20 +231,40 @@ public class ClawsCombat : MonoBehaviour
         if (clawsAttackCollider != null) clawsAttackCollider.enabled = false;
     }
 
-    private void OnPlayerDied()
+    // Выключает когти полностью (событие вызывается в HandleClawsToggle)
+    private void HideAllClaws()
     {
         clawsModeEnabled = false;
-        if (graphicsSpriteRenderer != null)
-            graphicsSpriteRenderer.enabled = true;
-        if (foxNoArms != null) foxNoArms.SetActive(false);
-        if (clawsIdleObject != null) clawsIdleObject.SetActive(false);
-        if (clawsAttackObject != null) clawsAttackObject.SetActive(false);
-        if (clawsAttackCollider != null) clawsAttackCollider.enabled = false;
+        HideAllClawsVisuals();
+    }
+
+    // Принудительное отключение когтей (для WeaponManager)
+    public void ForceDisableClaws()
+    {
+        if (clawsModeEnabled)
+        {
+            clawsModeEnabled = false;
+            HideAllClawsVisuals();
+            OnClawsToggled?.Invoke(false);
+        }
+    }
+
+    private void OnPlayerDied()
+    {
+        if (clawsModeEnabled)
+        {
+            clawsModeEnabled = false;
+            HideAllClawsVisuals();
+            OnClawsToggled?.Invoke(false);
+        }
+        else
+        {
+            HideAllClawsVisuals();
+        }
     }
 
     private void OnPlayerRevived()
     {
-        // Включаем Graphics
         if (graphicsNormal != null)
         {
             graphicsNormal.SetActive(true);
@@ -244,7 +273,6 @@ public class ClawsCombat : MonoBehaviour
             if (sr != null)
                 sr.enabled = true;
 
-            // Включаем Animator
             Animator anim = graphicsNormal.GetComponent<Animator>();
             if (anim != null)
             {
