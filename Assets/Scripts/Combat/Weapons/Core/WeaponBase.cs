@@ -138,4 +138,9 @@ public class WeaponBase : MonoBehaviour
         // Кулдаун уже прошёл, можно атаковать снова
         canAttack = true;
     }
+
+    public WeaponData GetWeaponData()
+    {
+        return weaponData;
+    }
 }

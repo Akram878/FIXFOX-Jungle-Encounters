@@ -1,7 +1,7 @@
 public enum WeaponType
 {
     Claws,
-    Sword,
-    Bow,
+    Grenade,
+    Gun,
     Magic
 }

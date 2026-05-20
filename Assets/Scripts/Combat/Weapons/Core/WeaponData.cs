@@ -9,6 +9,10 @@ public class WeaponData : ScriptableObject
     [Tooltip("Кнопка выбора оружия: 0 = цифра 1, 1 = цифра 2 и т.д.")]
     public int weaponSlotIndex = 0;
 
+    [Header("UI")]
+    [Tooltip("Иконка оружия для отображения в интерфейсе")]
+    public Sprite weaponIcon;
+
     [Header("Damage")]
     [Tooltip("Урон в health units. 2 = полсердца, 4 = целое сердце.")]
     public int damageUnits = 2;
